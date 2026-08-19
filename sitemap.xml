@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.butterflyandbullets.com/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-onstage.jpg</image:loc>
+      <image:title>Butterfly and Bullets performing live onstage</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-band-portrait.jpg</image:loc>
+      <image:title>Butterfly and Bullets band portrait</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-live-performance.jpg</image:loc>
+      <image:title>Butterfly and Bullets live performance</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-motel-neon.jpg</image:loc>
+      <image:title>Butterfly and Bullets under motel neon sign at night</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-desert-highway.jpg</image:loc>
+      <image:title>Butterfly and Bullets on a desert highway</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-warehouse-shoot.jpg</image:loc>
+      <image:title>Butterfly and Bullets warehouse photoshoot</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-backstage.jpg</image:loc>
+      <image:title>Butterfly and Bullets backstage</image:title>
+    </image:image>
+  </url>
+</urlset>
