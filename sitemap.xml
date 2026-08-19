@@ -2,37 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://www.butterflyandbullets.com/</loc>
+    <loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-onstage.jpg</image:loc>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-onstage.jpg</image:loc>
       <image:title>Butterfly and Bullets performing live onstage</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-band-portrait.jpg</image:loc>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-band-portrait.jpg</image:loc>
       <image:title>Butterfly and Bullets band portrait</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-live-performance.jpg</image:loc>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-live-performance.jpg</image:loc>
       <image:title>Butterfly and Bullets live performance</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-motel-neon.jpg</image:loc>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-motel-neon.jpg</image:loc>
       <image:title>Butterfly and Bullets under motel neon sign at night</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-desert-highway.jpg</image:loc>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-desert-highway.jpg</image:loc>
       <image:title>Butterfly and Bullets on a desert highway</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-warehouse-shoot.jpg</image:loc>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-warehouse-shoot.jpg</image:loc>
       <image:title>Butterfly and Bullets warehouse photoshoot</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.butterflyandbullets.com/images/butterfly-and-bullets-backstage.jpg</image:loc>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-backstage.jpg</image:loc>
       <image:title>Butterfly and Bullets backstage</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-bassist-live.jpg</image:loc>
+      <image:title>Jax Riley playing bass guitar live onstage</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-portrait-closeup.jpg</image:loc>
+      <image:title>Close-up portrait of Elara Voss</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-wedding-vows.jpg</image:loc>
+      <image:title>Butterfly and Bullets wedding ceremony scene</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-cathedral-walk.jpg</image:loc>
+      <image:title>Elara Voss walking down a cathedral aisle</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://butterflyandbullets-bit.github.io/Butterfly-and-Bullets/images/butterfly-and-bullets-desert-sunset-embrace.jpg</image:loc>
+      <image:title>Desert sunset embrace scene</image:title>
     </image:image>
   </url>
 </urlset>
